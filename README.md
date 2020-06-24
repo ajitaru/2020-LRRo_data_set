@@ -8,7 +8,3 @@ Andrei Cosmin Jitaru, Şeila Abdulamit, and Bogdan Ionescu. 2020. LRRo: A Lip Re
 
 Both datasets are distributed into three subsets, a training subset intended for training the models, a validation subset for validating and optimizing methods’ parameters, and a final testing subset for the actual evaluation.
 
-distribution of instances in each data set, according to Figure 2.
-
-Figure 1
-<p><img src="https://github.com/ajitaru/2020-LRRo_data_set/blob/master/img/directorytree.png" height="480" width="400"></p>
